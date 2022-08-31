@@ -1,0 +1,10 @@
+.dashboard{
+    
+    
+}
+body{
+    height:100vh;
+    
+background-image: linear-gradient(to right top, #cc68f0, #b77af7, #a389f9, #9394f7, #899ef2, #7aaaf7, #6fb5f9, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);
+    margin:0;
+}

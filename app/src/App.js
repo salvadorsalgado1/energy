@@ -1,6 +1,6 @@
-import logo from './logo.svg';
+ 
 import './App.css';
-import { Routes, Route, Link } from "react-router-dom";
+import { Routes, Route  } from "react-router-dom";
 import Landing from './pages/landing/Landing'
 import Dashboard from './pages/dashboard/Dashboard'
 

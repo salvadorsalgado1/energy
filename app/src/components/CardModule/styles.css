@@ -1,0 +1,19 @@
+.module-title{
+    font-size:1.8em;
+    color:dimgrey;
+    display:flex;
+    align-items: center;
+    justify-content: start;
+}
+
+.module-description{
+    font-size:1.4em;
+    display:flex;
+    align-items:flex-start;
+    color:grey;
+}
+
+img.module-icon{
+    max-width:15%;
+    margin: 0px 30px;
+}
